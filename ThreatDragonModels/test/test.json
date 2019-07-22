@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "jonathan",
+    "description": "Whatever"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Picture",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "jonathan"
+  }
+}
