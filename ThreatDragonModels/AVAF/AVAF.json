@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "AVAF",
+    "owner": "Jonathan Gill",
+    "description": "AVAF Application Review"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "AVAF",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": ""
+  }
+}
